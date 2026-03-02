@@ -1,0 +1,42 @@
+[
+  {
+    "product_name": "Laptop Pro",
+    "category": "Electronics",
+    "total_revenue": 1200,
+    "total_units_sold": 1,
+    "revenue_rank": 1,
+    "pct_category_revenue": 85.71,
+    "last_month_mom_change_pct": 0,
+    "is_top_20_percent": true
+  },
+  {
+    "product_name": "Mechanical Keyboard",
+    "category": "Electronics",
+    "total_revenue": 150,
+    "total_units_sold": 1,
+    "revenue_rank": 2,
+    "pct_category_revenue": 10.71,
+    "last_month_mom_change_pct": 0,
+    "is_top_20_percent": false
+  },
+  {
+    "product_name": "Wireless Mouse",
+    "category": "Electronics",
+    "total_revenue": 50,
+    "total_units_sold": 2,
+    "revenue_rank": 3,
+    "pct_category_revenue": 3.57,
+    "last_month_mom_change_pct": 0,
+    "is_top_20_percent": false
+  },
+  {
+    "product_name": "Coffee Mug",
+    "category": "Home",
+    "total_revenue": 30,
+    "total_units_sold": 2,
+    "revenue_rank": 1,
+    "pct_category_revenue": 100,
+    "last_month_mom_change_pct": 0,
+    "is_top_20_percent": true
+  }
+]
